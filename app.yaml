@@ -1,5 +1,5 @@
 application: m3-ems
-version: alpha-001
+version: v1
 runtime: php55
 api_version: 1
 
